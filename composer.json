@@ -1,0 +1,25 @@
+{
+    "name": "schean/api-controller",
+    "description": "This packages is to provide a basic controller to use for building api so that it will correct and give the standard of json api.",
+    "authors": [
+        {
+            "name": "sovath chean",
+            "email": "sovathchean.dev@gmail.com"
+        }
+    ],
+    "keywords": [
+        "api-controller",
+        "laravel"
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^8.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Schean\\ApiController\\": "src/"
+        }
+    }
+}
