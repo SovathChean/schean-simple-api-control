@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Schean\\ApiController\\": "src/"
+            "Schean\\Api099Controller\\": "src/"
         }
     }
 }
